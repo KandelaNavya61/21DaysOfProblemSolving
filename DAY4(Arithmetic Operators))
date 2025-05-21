@@ -1,0 +1,38 @@
+Given two integers A and B. Print the sum, difference, product, division, and remainder for the corresponding values of A and B.
+
+Input Format
+First and only line of input contains two integers - A and B.
+
+Output Format
+Print the sum, difference, product, division, and remainder for the corresponding values of A and B. Refer the given example.
+
+Constraints
+1 <= A, B <= 1000
+
+Example
+Input
+12 5
+
+Output
+Sum: 17
+Difference: 7
+Product: 60
+Division: 2
+Remainder: 2
+
+CODE:
+import java.io.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+     Scanner sc=new Scanner(System.in);
+     int n = sc.nextInt();
+     int m = sc.nextInt();
+     System.out.println("Sum: "+ (n+m));
+     System.out.println("Difference: "+ (n-m));
+     System.out.println("Product: "+ (n*m));
+     System.out.println("Division: "+ (n/m));
+     System.out.println("Remainder: "+ (n%m));
+    }
+}
