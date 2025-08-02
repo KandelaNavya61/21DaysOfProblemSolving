@@ -1,4 +1,4 @@
-16) Longest Word in a Sentence(spec):
+16) Longest Word in a Sentence:
 Given a sentence as input, write a Java program to find and return the word with the maximum length. If there are multiple words with the same maximum length, return the first one among them.
 
 Words in the sentence are separated by a single space, and there will be no punctuation marks.
