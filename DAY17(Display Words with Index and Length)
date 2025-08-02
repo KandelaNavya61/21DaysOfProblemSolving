@@ -1,4 +1,4 @@
-17) Display Words with Index and Length(spec):
+17) Display Words with Index and Length:
 Given a single-line sentence S, write a Java program to split it into words and print each word in the following format:
 
 w[i]: :
