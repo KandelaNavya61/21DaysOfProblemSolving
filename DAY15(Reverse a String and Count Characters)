@@ -1,4 +1,4 @@
-15) Reverse a String and Count Characters(spec):
+15) Reverse a String and Count Characters:
 You are given a string as input. Your task is to write a Java program that: - Reverses the string. - Displays the reversed string. - Displays the number of characters in the original string.
 
 Input Format
